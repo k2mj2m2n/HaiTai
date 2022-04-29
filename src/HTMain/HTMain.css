@@ -1,0 +1,14 @@
+.HTMain {
+    text-align: center;
+}
+.HTMain-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.section1{
+    position:absolute;
+}
+.mainbg {
+    width: "10px";
+}

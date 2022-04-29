@@ -1,0 +1,7 @@
+.HTHeader {
+    position: absolute;
+    text-align: center;
+}
+.HTHeader-logo {
+    pointer-events: none;
+ }

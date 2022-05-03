@@ -5,6 +5,8 @@ import HTMain from './HTMain/HTMain';
 import HTCompany from './HTCompany/HTCompany';
 import HTHoneyStory from './HTHoneyStory/HTHoneyStory';
 import HTSweetNews from './HTSweetNews/HTSweetNews';
+import HTProduct from './HTProduct/HTProduct';
+import HTLINK from './HTLINK/HTLINK';
 
 function App() {
   return (
@@ -15,9 +17,16 @@ function App() {
       <nav></nav>
       <section>
         <HTMain/>
+        </section><section>
         <HTCompany/>
+        </section><section>
+        <HTProduct/>
+        </section><section>
         <HTHoneyStory/>
+        </section><section>
         <HTSweetNews/>
+        </section><section>
+        <HTLINK/>
       </section>
       <footer>
         

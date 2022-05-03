@@ -3,7 +3,7 @@ import './HTCompany.css';
 
 function HTCompany() {
     return(
-        <div>
+        <div className="section2">
              <img src="./company.png" />
         </div>   
     )

@@ -1,0 +1,156 @@
+.HTLINK {
+    text-align: center;
+}
+.link6 {
+    position:absolute;
+    left:1130px;
+    top:335px;
+}
+.link6 .animated{
+    display: none;
+}
+.link6:hover .animated{
+    display: inline;
+}
+
+.link6:hover .static{
+    display: none;
+}
+
+
+.link7 {
+    position:absolute;
+    left:600px;
+    top:540px;
+}
+.link7 .animated{
+    display: none;
+}
+.link7:hover .animated{
+    display: inline;
+}
+
+.link7:hover .static{
+    display: none;
+}
+
+
+
+.link8 {
+    position:absolute;
+    left:865px;
+    top:540px;
+}
+.link8 .animated{
+    display: none;
+}
+.link8:hover .animated{
+    display: inline;
+}
+
+.link8:hover .static{
+    display: none;
+}
+
+
+.link9 {
+    position:absolute;
+    left:1130px;
+    top:540px;
+}
+.link9 .animated{
+    display: none;
+}
+.link9:hover .animated{
+    display: inline;
+}
+.link9:hover .static{
+    display: none;
+}
+
+
+.link1 {
+    position:absolute;
+    left:600px;
+    top:130px;
+}
+.link1 .animated{
+    display: none;
+}
+.link1:hover .animated{
+    display: inline;
+}
+
+.link1:hover .static{
+    display: none;
+}
+
+
+.link2 {
+    position:absolute;
+    left:865px;
+    top:130px;
+}
+.link2 .animated{
+    display: none;
+}
+.link2:hover .animated{
+    display: inline;
+}
+
+.link2:hover .static{
+    display: none;
+}
+
+
+.link3 {
+    position:absolute;
+    left:1130px;
+    top:130px;
+}
+.link3 .animated{
+    display: none;
+}
+.link3:hover .animated{
+    display: inline;
+}
+
+.link3:hover .static{
+    display: none;
+}
+
+
+
+.link4 {
+    position:absolute;
+    left:600px;
+    top:335px;
+
+}
+.link4 .animated{
+    display: none;
+}
+.link4:hover .animated{
+    display: inline;
+}
+
+.link4:hover .static{
+    display: none;
+}
+
+
+.link5 {
+    position:absolute;
+    left:865px;
+    top:335px;
+}
+.link5 .animated{
+    display: none;
+}
+.link5:hover .animated{
+    display: inline;
+}
+
+.link5:hover .static{
+    display: none;
+}

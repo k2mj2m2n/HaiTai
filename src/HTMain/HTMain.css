@@ -1,14 +1,31 @@
 .HTMain {
+    position: relative;
     text-align: center;
+    height: 1000px;
 }
-.HTMain-logo {
-    height: 40vmin;
-    pointer-events: none;
-}
-
 .section1{
-    position:absolute;
+    position: relative;
 }
 .mainbg {
-    width: "10px";
+    position: relative;
+    width: 100%;
+    left : 0%;
+}
+
+.m_bln{
+    position: absolute;
+    left: 40%;
+    width: 5%;
+}  
+.m_bee{
+    position: absolute;
+    overflow: hidden;
+    top: 7%;
+    left: 40%;
+    width: 282px;
+    height: 187px;
+}
+
+.m_bee img{
+    position: absolute;
 }
